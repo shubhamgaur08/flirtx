@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.flirtx",
+      "sha256_cert_fingerprints":
+      ["BB:24:07:15:23:E3:50:7D:12:DA:58:7B:16:A2:EF:FD:AD:1D:73:79:F8:6D:0A:48:CB:A0:61:12:1D:94:99:9C"]
+    }
+  }]
